@@ -2,7 +2,7 @@
 
 Implementação do algoritmo Ant Colony Optimization (ACO) em R para resolver o problema do Caixeiro Viajante (TSP).  
 Trabalho prático da disciplina de Inteligência Artificial na faculdade.
-
+ 
 ##  Parâmetros configuráveis
 - Número de formigas
 - Número de iterações
